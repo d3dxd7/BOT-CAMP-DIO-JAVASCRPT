@@ -1,4 +1,4 @@
-# BOT-CAMP-DIO-JAVASCRPT
+# Botcamp Microsoft Dinamics 365 - Dio
 Aprendendo JS na Pratica BOTCAMP DIO!! 
 
 ## Conteudo Ministrado
