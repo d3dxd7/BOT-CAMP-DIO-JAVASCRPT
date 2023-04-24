@@ -11,5 +11,5 @@ Aula N° 2 - Estruturas e Condicionais
 Aula N° 3 - Praticando com Variaveis, Operadores e Estruturas Condicionais
 
 
-##Perfil Plataforma DIO
+## Perfil Plataforma DIO
 ![image](https://user-images.githubusercontent.com/50407088/234126961-76c8250c-41af-464b-ae0e-725d16832e91.png)
