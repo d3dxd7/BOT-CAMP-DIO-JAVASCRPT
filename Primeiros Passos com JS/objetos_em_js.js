@@ -44,7 +44,7 @@ produto_inicial_2.promocao = 'Celulares a 20% Desconto'
 console.log(produto_inicial_2)
 
 
-//Modelo de Json
+//Modelo de Json // JavaScript objetic notation = Json e Texto!
 let modelo_jason = '{"nome": "LUCAS", "sobre_nome": "MATHEUS", "idade": 25}'
 console.log(typeof modelo_jason)
 
